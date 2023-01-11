@@ -1,0 +1,51 @@
+color,director_name,duration,gross,genres,movie_title,title_year,language,country,budget,imdb_score,actors,movie_facebook_likes
+Color,Bryan Singer,144,154985087,Action|Adventure|Sci-Fi,X-Men: Apocalypse,2016,English,USA,178000000,7.3,"Jennifer Lawrence,Michael Fassbender,Tye Sheridan",54000
+Color,Adam McKay,143,2175312,Comedy,Anchorman 2: The Legend Continues,2013,English,USA,50000000,6.3,"Harrison Ford,Will Ferrell,Steve Carell",41000
+Color,Zack Snyder,143,291021565,Action|Adventure|Fantasy|Sci-Fi,Man of Steel,2013,English,USA,225000000,7.2,"Henry Cavill,Christopher Meloni,Harry Lennix",118000
+Color,Sam Mendes,143,304360277,Action|Adventure|Thriller,Skyfall,2012,English,UK,200000000,7.8,"Albert Finney,Helen McCrory,Rory Kinnear",80000
+Color,Sam Mendes,143,304360277,Action|Adventure|Thriller,Skyfall,2012,English,UK,200000000,7.8,"Albert Finney,Helen McCrory,Rory Kinnear",80000
+Color,Baz Luhrmann,143,144812796,Drama|Romance,The Great Gatsby,2013,English,Australia,105000000,7.3,"Leonardo DiCaprio,Elizabeth Debicki,Steve Bisley",115000
+Color,Baz Luhrmann,143,144812796,Drama|Romance,The Great Gatsby,2013,English,Australia,105000000,7.3,"Leonardo DiCaprio,Elizabeth Debicki,Steve Bisley",115000
+,,143,,Drama|Horror|Thriller,The Ridges,2011,English,USA,17350,3,"Robbie Barnes,Alana Kaniewski,Brandon Landers",33
+Color,Steven Spielberg,142,72306065,Drama|History|Thriller,Bridge of Spies,2015,English,USA,40000000,7.6,"Tom Hanks,Mark Rylance,Amy Ryan",55000
+Color,Marc Webb,142,202853933,Action|Adventure|Fantasy|Sci-Fi,The Amazing Spider-Man 2,2014,English,USA,200000000,6.7,"Emma Stone,Andrew Garfield,B.J. Novak",41000
+Color,,142,407999255,Adventure|Drama|Sci-Fi|Thriller,The Hunger Games,2012,English,USA,78000000,7.3,"Jennifer Lawrence,Josh Hutcherson,Anthony Reynolds",140000
+Color,Joss Whedon,141,458991599,Action|Adventure|Sci-Fi,Avengers: Age of Ultron,2015,English,USA,250000000,7.5,"Chris Hemsworth,Robert Downey Jr.,Scarlett Johansson",118000
+Color,Timur Bekmambetov,141,,Adventure|Drama|History,Ben-Hur,2016,English,USA,100000000,6.1,"Morgan Freeman,Ayelet Zurer,Moises Arias",0
+Color,Timur Bekmambetov,141,,Adventure|Drama|History,Ben-Hur,2016,English,USA,100000000,6,"Morgan Freeman,Ayelet Zurer,Moises Arias",0
+Color,Timur Bekmambetov,141,,Adventure|Drama|History,Ben-Hur,2016,English,USA,100000000,6.1,"Morgan Freeman,Ayelet Zurer,Moises Arias",0
+Color,Justin Chadwick,141,8324748,Biography|Drama|History,Mandela: Long Walk to Freedom,2013,English,UK,35000000,7.1,"Terry Pheto,Fana Mokoena,Tony Kgoroge",13000
+,Oliver Stone,141,47307550,Crime|Drama|Thriller,Savages,2012,English,USA,45000000,6.5,"Demián Bichir,Shea Whigham,Gary Stretch",28000
+Color,David Dobkin,141,47105085,Crime|Drama,The Judge,2014,English,USA,50000000,7.4,"Robert Downey Jr.,Robert Duvall,Leighton Meester",47000
+Color,Ryan Murphy,140,80574010,Drama|Romance,Eat Pray Love,2010,English,USA,60000000,5.7,"James Franco,Julia Roberts,Billy Crudup",26000
+Color,James Wan,140,350034110,Action|Crime|Thriller,Furious 7,2015,English,USA,190000000,7.2,"Jason Statham,Paul Walker,Vin Diesel",94000
+Color,Derek Cianfrance,140,21383298,Crime|Drama|Thriller,The Place Beyond the Pines,2012,English,USA,15000000,7.3,"Ryan Gosling,Ben Mendelsohn,Angelo Anthony Pizza",47000
+Color,Gavin O'Connor,140,13651662,Drama|Sport,Warrior,2011,English,USA,25000000,8.2,"Tom Hardy,Frank Grillo,Kevin Dunn",77000
+Color,,139,150832203,Adventure|Mystery|Sci-Fi,Divergent,2014,English,USA,85000000,6.7,"Kate Winslet,Theo James,Mekhi Phifer",49000
+Color,Gary Ross,139,20389967,Action|Biography|Drama|History|War,Free State of Jones,2016,English,USA,50000000,6.7,"Matthew McConaughey,Donald Watkins,Jessica Collins",10000
+Color,Tate Taylor,139,30513940,Biography|Drama|Music,Get on Up,2014,English,USA,30000000,6.9,"Tika Sumpter,Josh Hopkins,Aunjanue Ellis",11000
+,Terrence Malick,139,13303319,Drama|Fantasy,The Tree of Life,2011,English,USA,32000000,6.7,"Brad Pitt,Tye Sheridan,Fiona Shaw",39000
+Color,,138,150117807,Crime|Drama,American Hustle,2013,English,USA,40000000,7.3,"Jennifer Lawrence,Christian Bale,Bradley Cooper",63000
+,Robert Zemeckis,138,93749203,Drama|Thriller,Flight,2012,English,USA,31000000,7.3,"Denzel Washington,Bruce Greenwood,Nadine Velazquez",64000
+Color,Darren Aronofsky,138,101160529,Action|Adventure|Drama,Noah,2014,English,USA,125000000,5.8,"Anthony Hopkins,Emma Watson,Logan Lerman",71000
+Color,Martin Scorsese,138,127968405,Mystery|Thriller,Shutter Island,2010,English,USA,80000000,8.1,"Leonardo DiCaprio,Joseph Sikora,Nellie Sciutto",53000
+Color,Ridley Scott,138,16969390,Crime|Drama|Thriller,The Counselor,2013,English,USA,25000000,5.3,"Michael Fassbender,Brad Pitt,Goran Visnjic",24000
+,James Mangold,138,132550960,Action|Adventure|Sci-Fi|Thriller,The Wolverine,2013,English,USA,120000000,6.7,"Hugh Jackman,Tao Okamoto,Rila Fukushima",68000
+Color,Daniel Espinosa,137,1206135,Crime|Drama|Thriller,Child 44,205,English,Czech Republic,50000000,6.4,"Tom Hardy,Fares Fares,Michael Nardone",18000
+Color,,137,37304950,Biography|Crime|Drama,J. Edgar,2011,English,USA,35000000,6.6,"Leonardo DiCaprio,Naomi Watts,Kaitlyn Dever",16000
+,Walter Salles,137,717753,Adventure|Drama,On the Road,2012,English,France,25000000,6.1,"Kristen Stewart,Viggo Mortensen,Kirsten Dunst",27000
+Color,,137,281666058,Adventure|Sci-Fi,The Hunger Games: Mockingjay - Part 2,2015,English,USA,160000000,6.6,"Jennifer Lawrence,Philip Seymour Hoffman,Josh Hutcherson",38000
+Color,Angelina Jolie Pitt,137,115603980,Biography|Drama|Sport|War,Unbroken,2014,English,USA,65000000,-1.2,"Finn Wittrock,Jack O'Connell,Alex Russell",35000
+Color,Angelina Jolie Pitt,137,115603980,Biography|Drama|Sport|War,Unbroken,2014,English,USA,65000000,7.2,"Finn Wittrock,Jack O'Connell,Alex Russell",35000
+,Seth MacFarlane,136,42615685,Comedy|Western,A Million Ways to Die in the West,2014,English,USA,40000000,6.1,"Liam Neeson,Charlize Theron,Seth MacFarlane",24000
+Color,Anthony Russo,136,259746958,Action|Adventure|Sci-Fi,Captain America: The Winter Soldier,2014,English,usa,170000000,7.8,"Scarlett Johansson,Chris Evans,Hayley Atwell",55000
+Color,Rob Marshall,136,241063875,Action|Adventure|Fantasy,Pirates of the Caribbean: On Stranger Tides,2011,English,USA,250000000,6.7,"Johnny Depp,Sam Claflin,Stephen Graham",58000
+Color,Adam Shankman,136,38509342,Comedy|Drama|Musical|Romance,Rock of Ages,2012,English,USA,75000000,5.9,"James Martin Kelly,Shane Hartline,Celina Beach",33000
+Color,,136,52474616,Drama,Wall Street: Money Never Sleeps,2010,English,USA,70000000,6.3,"Frank Langella,Austin Pendleton,John Buffalo Mailer",13000
+Color,Sadyk Sher-Niyaz,135,,Action|Biography|Drama|History,Queen of the Mountains,2014,English,Kyrgyzstan,1400000,8.7,"Elina Abai Kyzy,Aziz Muradillayev,Mirlan Abdulayev",0
+Color,Tony Gilroy,135,113165635,Action|Adventure|Thriller,The Bourne Legacy,2012,English,USA,125000000,6.7,"Jeremy Renner,Scott Glenn,Stacy Keach",31000
+Color,Steve McQueen,134,56667870,Biography|Drama|History,12 Years a Slave,2013,English,USA,20000000,8.1,"Quvenzhané Wallis,Scoot McNairy,Taran Killam",83000
+Color,Richard J. Lewis,134,7501404,Comedy|Drama,Barney's Version,2010,English,Canada,,7.3,"Mark Addy,Atom Egoyan,Paul Gross",0
+Color,Paul Greengrass,134,107100855,Biography|Drama|Thriller,Captain Phillips,2013,English,USA,55000000,7.9,"Tom Hanks,Chris Mulkey,Michael Chernus",65000
+Color,David Ayer,134,85707116,Action|Drama|War,Fury,2014,English,USA,68000000,7.6,"Brad Pitt,Logan Lerman,Jim Parrack",82000
+Color,Clint Eastwood,5,47034272,Biography|Drama|Music|Musical,Jersey Boys,2014,English,USA,40000000,6.9,"Johnny Cannizzaro,Steve Schirripa,Scott Vance",16000
